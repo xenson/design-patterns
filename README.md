@@ -25,8 +25,7 @@
 状态模式（State Pattern）：允许一个对象在其内部状态改变时改变它的行为。
 
 ### 分类及组合
-
-![img.png](src/main/resources/img.png)
+![image](https://github.com/xenson/design-patterns/assets/54526926/ffd6e30f-bcc2-4889-8f67-75fe3b33941a)
 
 设计模式的学习和应用对于提高软件设计能力和代码质量有着重要的意义。通过理解和掌握这些模式，开发者可以更加高效地解决软件开发过程中遇到的问题，并能够更好地与团队成员沟通和协作。
 
